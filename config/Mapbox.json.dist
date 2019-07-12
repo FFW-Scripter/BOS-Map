@@ -1,0 +1,4 @@
+{
+  "accessToken": "***ACCESS-TOKEN***",
+  "style": "./mapbox/Outdoors/style.json"
+}

@@ -1,0 +1,9 @@
+{
+  "BOS-Map": {
+    "host": "localhost",
+    "port": 3301,
+    "db": "BOS-Map",
+    "user": "BOS-Map",
+    "passwort": "***PASSWORT***"
+  }
+}
